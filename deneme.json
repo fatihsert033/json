@@ -1,17 +1,7 @@
+[
 {  
-   "k1":{  
-      "kullanici" : "Ahmet" ,  
-      "yas"          : "22" ,  
-      "sehir"   : "Ankara"  
-      },  
-      "k2":{  
-      "kullanici" : "Ayşe" ,  
-      "yas"          : "29" ,  
-      "sehir"   : "İzmir"  
-      },  
-      "k3":{  
-      "kullanici" : "Jhon" ,  
-      "yas"          : "25" ,  
-      "sehir"   : "Barcelona"  
-      }  
- }
+   "k1": 1,  
+   "k2": 2,  
+   "k3": 3
+}
+]
