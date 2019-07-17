@@ -1,7 +1,17 @@
-[
-{
-   "Anime İsmi" : "Sakamoto desu ka?",
-   "Bölüm Sayısı" : "red",
-   "Renk" : "blue"
-}
-]
+{  
+   "k1":{  
+      "kullanici" : "Ahmet" ,  
+      "yas"          : "22" ,  
+      "sehir"   : "Ankara"  
+      },  
+      "k2":{  
+      "kullanici" : "Ayşe" ,  
+      "yas"          : "29" ,  
+      "sehir"   : "İzmir"  
+      },  
+      "k3":{  
+      "kullanici" : "Jhon" ,  
+      "yas"          : "25" ,  
+      "sehir"   : "Barcelona"  
+      }  
+ }
