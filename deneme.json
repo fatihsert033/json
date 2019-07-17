@@ -1,10 +1,12 @@
 [
     {
+        "resim" : "http://www.turkanime.tv/imajlar/serilerb/402.jpg",
         "isim" : "Toradora",
         "bolum_say" : "24",
         "konu" : "Değişik Bir Anime"
     },
     {
+        "resim" : "http://www.turkanime.tv/imajlar/serilerb/2563.jpg",
         "isim" : "One Punch Man",
         "bolum_say" : "12",
         "konu" : "Değişik İki Anime"
