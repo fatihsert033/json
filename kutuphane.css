@@ -1,0 +1,10 @@
+#alert {
+
+ background-color:red;
+
+}
+#alert:hover {
+
+ background-color:yellow;
+
+}
